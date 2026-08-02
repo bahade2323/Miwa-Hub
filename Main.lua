@@ -4,5 +4,7 @@ task.spawn(function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/bahade2323/Miwa-Hub/refs/heads/main/Broken%20Blade"))()
     elseif GameId == 10267363348 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/bahade2323/Miwa-Hub/refs/heads/main/Drain%20A%20Lake"))()
+    elseif GameId == 10178802449 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/bahade2323/Miwa-Hub/refs/heads/main/%2B1%20Mine%20Per%20Click.lua"))()
     end
 end)
