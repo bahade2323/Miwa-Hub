@@ -3,6 +3,6 @@ task.spawn(function()
     if GameId == 10093833731 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/bahade2323/Miwa-Hub/refs/heads/main/BrokenBlade.lua"))()
     elseif GameId == 10178802449 then
-        loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/1c5a87d05ff12e92c9106efffc05bf8c4a1bf10de744bed5dc202fbca427b2f8/download"))()
+        https://raw.githubusercontent.com/bahade2323/Miwa-Hub/refs/heads/main/%2B1%20Mine%20Per%20Click.lua
     end
 end)
